@@ -4,8 +4,7 @@
 
 Eu me chamo Francilan Lima, tenho 24 anos e moro em Manaus - AM. Iniciei minha trajetória profissional como Assistente Administrativo, onde desenvolvi habilidades em organização, disciplina e gestão de processos. Com experiência em atendimento ao cliente, atualmente estou me especializando como Desenvolvedor Front-End pela plataforma DevClub, com foco em HTML, CSS e JavaScript, buscando criar interfaces modernas e responsivas. Minhas competências interpessoais, perfil analítico e capacidade de organização, adquiridas ao longo da minha carreira, agora são aplicadas na área de tecnologia para colaborar em projetos e entregar soluções eficazes.
 
-</br>
-</br
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -37,6 +36,7 @@ Eu me chamo Francilan Lima, tenho 24 anos e moro em Manaus - AM. Iniciei minha t
 
 </br>
 </br>
+    
 ### 🤖 Contatos
 
 <p>
@@ -56,8 +56,8 @@ Eu me chamo Francilan Lima, tenho 24 anos e moro em Manaus - AM. Iniciei minha t
     </a>
 </p>
 
-<br/>
-<br/>
+</br>   
+
 ### 📊 Estatísticas
 
 <p>
